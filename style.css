@@ -188,8 +188,8 @@ section.first>div :nth-child(2) {
 }
 
 .faqbox:hover {
-    background-color: #414141;
-    color: white;
+    background-color: #a38383;
+    color: rgb(255, 251, 251);
 }
 
 .faqbox svg {
